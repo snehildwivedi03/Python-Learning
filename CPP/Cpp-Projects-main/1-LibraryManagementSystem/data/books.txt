@@ -1,0 +1,50 @@
+1|The Great Gatsby|Scribner|F. Scott Fitzgerald|250
+2|To Kill a Mockingbird|J.B. Lippincott & Co.|Harper Lee|320
+3|1984|Secker & Warburg|George Orwell|328
+4|Pride and Prejudice|T. Egerton, Whitehall|Jane Austen|279
+5|The Catcher in the Rye|Little, Brown and Company|J.D. Salinger|224
+6|The Hobbit|George Allen & Unwin|J.R.R. Tolkien|310
+7|Lord of the Flies|Faber and Faber|William Golding|224
+8|Animal Farm|Secker & Warburg|George Orwell|112
+9|The Chronicles of Narnia: The Lion, the Witch and the Wardrobe|Geoffrey Bles|C.S. Lewis|206
+10|Brave New World|Chatto & Windus|Aldous Huxley|268
+11|The Lord of the Rings|George Allen & Unwin|J.R.R. Tolkien|1178
+12|Jane Eyre|Smith, Elder & Co.|Charlotte Brontë|500
+13|Wuthering Heights|Thomas Cautley Newby|Emily Brontë|350
+14|Moby Dick|Harper & Brothers|Herman Melville|585
+15|Frankenstein|Lackington, Hughes, Harding, Mavor & Jones|Mary Shelley|280
+16|Don Quixote|Francisco de Robles|Miguel de Cervantes|863
+17|War and Peace|The Russian Messenger|Leo Tolstoy|1225
+18|One Hundred Years of Solitude|Editorial Sudamericana|Gabriel García Márquez|417
+19|The Odyssey|Various publishers|Homer|448
+20|Crime and Punishment|The Russian Messenger|Fyodor Dostoevsky|551
+21|The Alchemist|Editora Rocco|Paulo Coelho|163
+22|The Hitchhiker's Guide to the Galaxy|Pan Books|Douglas Adams|193
+23|The Picture of Dorian Gray|Ward, Lock and Company|Oscar Wilde|254
+24|Dracula|Archibald Constable and Company|Bram Stoker|418
+25|Alice's Adventures in Wonderland|Macmillan Publishers|Lewis Carroll|118
+26|Les Misérables|A. Lacroix, Verboeckhoven et Cie.|Victor Hugo|1463
+27|The Grapes of Wrath|The Viking Press|John Steinbeck|464
+28|Gone with the Wind|Macmillan Publishers|Margaret Mitchell|1037
+29|Great Expectations|Chapman & Hall|Charles Dickens|505
+30|A Tale of Two Cities|Chapman & Hall|Charles Dickens|448
+31|The Scarlet Letter|Ticknor and Fields|Nathaniel Hawthorne|253
+32|The Secret Garden|Frederick A. Stokes Company|Frances Hodgson Burnett|375
+33|The Wind in the Willows|Methuen & Co.|Kenneth Grahame|259
+34|Treasure Island|Cassell & Company|Robert Louis Stevenson|208
+35|Adventures of Huckleberry Finn|Chatto & Windus|Mark Twain|366
+36|Little Women|Roberts Brothers|Louisa May Alcott|449
+37|Anne of Green Gables|L.C. Page & Co.|L.M. Montgomery|320
+38|Through the Looking-Glass|Macmillan Publishers|Lewis Carroll|224
+39|Around the World in Eighty Days|Pierre-Jules Hetzel|Jules Verne|288
+40|Twenty Thousand Leagues Under the Seas|Pierre-Jules Hetzel|Jules Verne|448
+41|The Three Musketeers|Baudry|Alexandre Dumas|672
+42|Count of Monte Cristo|Pétion|Alexandre Dumas|1200
+43|The Call of the Wild|Macmillan Publishers|Jack London|128
+44|White Fang|Macmillan Publishers|Jack London|256
+45|Gulliver's Travels|Benjamin Motte|Jonathan Swift|304
+46|Robinson Crusoe|William Taylor|Daniel Defoe|320
+47|Kidnapped|Cassell & Company|Robert Louis Stevenson|288
+48|A Wrinkle in Time|Farrar, Straus and Giroux|Madeleine L'Engle|211
+49|The Outsiders|The Viking Press|S.E. Hinton|192
+50|Charlotte's Web|Harper & Brothers|E.B. White|192

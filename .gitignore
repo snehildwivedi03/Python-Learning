@@ -1,0 +1,62 @@
+# ---- Build directories ----
+build/
+Build/
+out/
+bin/
+obj/
+
+# ---- CMake ----
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+*.cmake
+!CMakeLists.txt
+CTestTestfile.cmake
+_deps/
+
+# ---- Compiled / binary artifacts ----
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.ilk
+*.pdb
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+*.slnx
+*.vcxproj*
+
+# ---- Editor / temp files ----
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# ---- Compiled executables without extension ----
+CPP/Cpp-Projects-main/3-DSA-Visualizer/dsa_visualizer
+CPP/Cpp-Projects-main/5-Smart-Meter/vgs_server
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Environment / secrets ----
+.env
+.env.*
+!.env.example
